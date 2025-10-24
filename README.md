@@ -1,0 +1,2 @@
+# .github
+setting for cam
